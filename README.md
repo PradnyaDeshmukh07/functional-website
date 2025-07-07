@@ -6,7 +6,6 @@
 
 - Static landing page layout
 - Navigation bar and footer
-- Hero section with call-to-action
 - Student and brand images
 - App download section
 
